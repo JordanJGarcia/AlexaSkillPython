@@ -37,3 +37,7 @@ Libraries used:
     - https://docs.python.org/2/library/datetime.html
   - Requests
     - https://2.python-requests.org/en/master/
+    
+    
+    
+ Old Repo: https://github.com/JordanJGarcia/AthanAlexaSkill
