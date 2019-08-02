@@ -14,10 +14,11 @@ for every prayer, or when requested.
 
 This skill was crated using python. Our platforms were GitHub Desktop and the Amazon Developer Console.
 
-- Computing/environments used:
-    Amazon Web Service
+  - Computing/environments used:
+  
+    - Amazon Web Service
       - Lambda/S3
-    Amazon Developer Console
+    - Amazon Developer Console
       - Alexa Skills Kit
   
   
