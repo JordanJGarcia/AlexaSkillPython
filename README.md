@@ -14,7 +14,7 @@ for every prayer, or when requested.
 
 This skill was crated using python. Our platforms were GitHub Desktop and the Amazon Developer Console.
 
-  - Computing/environments used:
+Computing/environments used:
   
     - Amazon Web Service
       - Lambda/S3
@@ -22,7 +22,7 @@ This skill was crated using python. Our platforms were GitHub Desktop and the Am
       - Alexa Skills Kit
   
   
- - Libraries used: 
+Libraries used: 
  
   - Alexa Skills Kit SDK (Python)
     - https://github.com/alexa/alexa-skills-kit-sdk-for-python
