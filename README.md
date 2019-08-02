@@ -1,4 +1,4 @@
-Athan Alexa Skill:
+                                                    Athan Alexa Skill
 
 By Mohamed Aboulela, Jordan Garcia, Zachary Hayes and Connor Hausmann
 
