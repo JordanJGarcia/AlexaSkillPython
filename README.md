@@ -14,26 +14,26 @@ for every prayer, or when requested.
 
 This skill was crated using python. Our platforms were GitHub Desktop and the Amazon Developer Console.
 
-Computing/environments used:
-- Amazon Web Service
-  - Lambda/S3
-- Amazon Developer Console
-  - Alexa Skills Kit
+- Computing/environments used:
+    Amazon Web Service
+      - Lambda/S3
+    Amazon Developer Console
+      - Alexa Skills Kit
   
   
-  Libraries used:
+  - Libraries used:
   
-  - Alexa Skills Kit SDK (Python)
-    - https://github.com/alexa/alexa-skills-kit-sdk-for-python
-  - Alexa APIs (Python)
-    - https://github.com/alexa/alexa-apis-for-python
-  - Geopy
-    - https://geopy.readthedocs.io/en/stable/
-  - Pytz
-    - http://pytz.sourceforge.net/
-  - Beautiful Soup
-    - https://www.crummy.com/software/BeautifulSoup/bs4/doc/
-  - Datetime
-    - https://docs.python.org/2/library/datetime.html
-  - Requests
-    - https://2.python-requests.org/en/master/
+    Alexa Skills Kit SDK (Python)
+      - https://github.com/alexa/alexa-skills-kit-sdk-for-python
+    Alexa APIs (Python)
+      - https://github.com/alexa/alexa-apis-for-python
+    Geopy
+      - https://geopy.readthedocs.io/en/stable/
+    Pytz
+      - http://pytz.sourceforge.net/
+    Beautiful Soup
+      - https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+    Datetime
+      - https://docs.python.org/2/library/datetime.html
+    Requests
+      - https://2.python-requests.org/en/master/
