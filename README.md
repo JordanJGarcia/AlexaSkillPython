@@ -12,14 +12,13 @@ for every prayer, or when requested.
   - tell when the next prayer time is
   - tell you prayer times of the day
 
-This skill was crated using python. Our platforms were GitHub Desktop and the Amazon Developer Console.
+This skill was created using python. Our platforms were GitHub Desktop and the Amazon Developer Console.
 
-Computing/environments used:
-  
-    - Amazon Web Service
-      - Lambda/S3
-    - Amazon Developer Console
-      - Alexa Skills Kit
+Computing/environments used: 
+  - Amazon Web Service
+    - Lambda/S3
+  - Amazon Developer Console
+    - Alexa Skills Kit
   
   
 Libraries used: 
