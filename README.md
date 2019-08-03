@@ -50,8 +50,14 @@ Libraries used:
   - LaunchRequest, SessionEndedRequest, AudioPlayer Interface, AthanInfoIntent, CreatePlayDirective(), 
     playCallToPrayerIntent, AMAZON."intentName" Intents, get_user_time(), get_audio_file() 
     
-    
-    
+ Mohamed Aboulela
+ 
+ 
+ Zachary Hayes
+ 
+ 
+ Connor Hausmann
+       
     
 How to run: 
 
