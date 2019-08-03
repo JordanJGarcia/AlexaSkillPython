@@ -105,17 +105,11 @@
                     ]
                 },
                 {
-                    "name": "NextPrayerIntent",
+                    "name": "ActivateIntent",
                     "slots": [],
                     "samples": [
-                        "What is the next prayer"
-                    ]
-                },
-                {
-                    "name": "PrayerRemainingIntent",
-                    "slots": [],
-                    "samples": [
-                        "What prayers are left"
+                        "activate prayer reminders",
+                        "activate"
                     ]
                 }
             ],
