@@ -41,3 +41,30 @@ Libraries used:
     
     
  Old Repo: https://github.com/JordanJGarcia/AthanAlexaSkill
+ 
+ 
+ 
+ Division of Labor:
+ 
+ Jordan Garcia
+  - LaunchRequest, SessionEndedRequest, AudioPlayer Interface, AthanInfoIntent, CreatePlayDirective(), 
+    playCallToPrayerIntent, AMAZON."intentName" Intents, get_user_time(), get_audio_file() 
+    
+    
+    
+    
+How to run: 
+
+You must have an Amazon developer account and an account with AWS. It is also assumed you know how to run an alexa skill with AWS Lambda. If you have both:
+
+1) Go to https://aws.amazon.com/ and click on "Sign in to Console" in the top right. 
+2) Once signed in, click on "Lambda" under the Compute section.
+3) Click "Create Function" and set the runtime to Python 3.6 and register it to the role you have created for this function. 
+4) Once in the function development environment, upload the "lambda.zip" file in ZipFolder directory as your Lambda function. 
+5) Add "S3" and "Alexa Skills Kit" as triggers.
+6) Now, go to https://developer.amazon.com and sign into your developer account. 
+7) Under "Alexa" select "Alexa skills kit" and create an Invocation name and copy the "interactionModel.json" file, and paste it in the JSON editor for intents.
+8) Save your model and ensure its linked to the Lambda function properly with the necessary permissions set. 
+9) Build the model.
+
+If you have an alexa device signed into the same account as your Amazon developer account you can use that device to test your custom skill. If not, you can use the "Test" section. However, not using a device will make use of the skill very limited. 
