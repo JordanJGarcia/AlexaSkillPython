@@ -51,7 +51,8 @@ Libraries used:
     playCallToPrayerIntent, AMAZON."intentName" Intents, get_user_time(), get_audio_file() 
     
  Mohamed Aboulela
- 
+ - Proposed the idea of making this skill. Provided hardware support and information on how Athan works. 
+Edited some of the intents, and worked with Zach on making the group presentation.
  
  Zachary Hayes
  
